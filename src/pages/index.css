@@ -1,0 +1,11 @@
+.ant-layout-header,
+.ant-layout-footer {
+  color: #fff;
+  background: #7dbcea;
+}
+
+[data-theme="dark"] .ant-layout-header {
+  background: #6aa0c7;
+}
+
+h1 {color: white i !important;}
